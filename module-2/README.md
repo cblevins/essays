@@ -1,5 +1,8 @@
-.ve-header "Module 2: Historicizing Data" position=top sticky
-    - [Data 4 All](https://data4all.com)
+.ve-header "Module 2: Historicizing Data" logo=https://github.com/cblevins/essays/raw/main/DataAdvocacyForAllLogo.png background=Black sticky
+
+
+
+- [Data 4 All](https://data4all.com)
     - [Overview](#overview)
     - [Learning Outcomes](#outcomes) 
     - [Key Concepts](#concepts)
@@ -7,8 +10,14 @@
     - [Schedule](#schedule)
     - [Activities](#activities)
     - [Assessment](#assessment)
+   
 
 # Module 2: Historicizing Data
+
+# Bedroom in Arles
+
+
+ ==testing entity popover=={description="A text only popover"}.
 
 ## Overview {#overview}
 
