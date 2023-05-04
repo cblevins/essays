@@ -1,6 +1,8 @@
-.ve-header "Module 2: Historicizing Data" logo=https://github.com/cblevins/essays/raw/main/DataAdvocacyForAllLogo.png background=Black sticky
+.ve-header "Module 2: Historicizing Data" background=gh:da4asandbox/cameronessay-organization/media/Module2Overview.jpg sticky
 
 
+
+logo=https://github.com/cblevins/essays/raw/main/DataAdvocacyForAllLogo.png
 
 - [Data 4 All](https://data4all.com)
     - [Overview](#overview)
