@@ -1,4 +1,4 @@
-.ve-style custom.css
+.ve-style href=https://www.github.com/cblevins/essays/module-2/stylesheet.css
 
 # Heading
 
